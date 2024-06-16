@@ -1,4 +1,4 @@
-package com.reysl.gazprom_task
+package com.reysl.gazprom_task.network
 
 object CityApi {
     val cityService: CityService by lazy {

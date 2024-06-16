@@ -1,5 +1,6 @@
-package com.reysl.gazprom_task
+package com.reysl.gazprom_task.network
 
+import com.reysl.gazprom_task.model.City
 import retrofit2.Call
 import retrofit2.http.GET
 

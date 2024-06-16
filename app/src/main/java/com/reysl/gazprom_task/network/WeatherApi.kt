@@ -1,4 +1,4 @@
-package com.reysl.gazprom_task
+package com.reysl.gazprom_task.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

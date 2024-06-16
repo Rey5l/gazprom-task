@@ -2,4 +2,6 @@
     <string name="app_name">Gazprom-Task</string>
     <string name="celsius">C°</string>
     <string name="Update">Обновить</string>
+    <string name="Reload">Обновить</string>
+    <string name="Error">Произошла ошибка</string>
 </resources>
